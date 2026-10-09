@@ -1,4 +1,4 @@
-# Student Performance Prediction
+# Student Performance Indicator
 
 This repository contains a data science project aimed at predicting whether a student will pass or fail based on various academic and extracurricular factors. The project utilizes **Python**, **Pandas**, **NumPy**, and **Scikit-Learn** to perform data cleaning, exploratory data analysis, and machine learning classification.
 
